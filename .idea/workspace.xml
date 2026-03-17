@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c820f0a-50ae-4964-85f6-6f46a8a13e9e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../BookMyStayApp/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BookMyStayApp/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="0c820f0a-50ae-4964-85f6-6f46a8a13e9e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +33,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "feature/UC7",
+    "git-widget-placeholder": "feature/UC9",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Admin/Documents/RA2411003011209/BookMyStayApp/src/Main.java",
