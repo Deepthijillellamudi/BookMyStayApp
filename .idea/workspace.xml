@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0c820f0a-50ae-4964-85f6-6f46a8a13e9e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../BookMyStayApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BookMyStayApp/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BookMyStayApp/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BookMyStayApp/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../BookMyStayApp" />
   </component>
   <component name="McpProjectServerCommands">
     <commands />
@@ -26,7 +33,10 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "feature/UC1",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Admin/Documents/RA2411003011209/BookMyStayApp/src/Main.java",
@@ -55,7 +65,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/../BookMyStayApp/src/Main.java</url>
-          <line>10</line>
+          <line>4</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
